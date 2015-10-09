@@ -1,0 +1,30 @@
+#ifndef STACK_H
+#define STACK_H
+#include <array>
+
+
+#define MAX_SIZE 12
+template <typename T> class Stack
+{
+
+	public:
+	typedef typename std::array<T,MAX_SIZE>::size_type size_type;
+	Stack();
+	Stack(const Stack&) = default;
+	Stack& operator=(const Stack &) = default;
+	~Stack() = default;
+
+	bool isEmpty();
+	void push(T x);
+	T pop();
+	void print();
+
+	private:
+	std::array<T,MAX_SIZE> a;
+	size_type top;
+};
+
+
+
+#endif
+
