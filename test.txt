@@ -1,0 +1,255 @@
+Now testing Stack push and pop function:
+Push or Pop? press "p or P" for push, press "o or O" for pop, press "q or Q" for quit: p
+Generated random number: 1 pushed onto the stack.
+Now the stack is:
+1 
+Push or Pop? press "p or P" for push, press "o or O" for pop, press "q or Q" for quit: p
+Generated random number: 4 pushed onto the stack.
+Now the stack is:
+1 4 
+Push or Pop? press "p or P" for push, press "o or O" for pop, press "q or Q" for quit: p
+Generated random number: 1 pushed onto the stack.
+Now the stack is:
+1 4 1 
+Push or Pop? press "p or P" for push, press "o or O" for pop, press "q or Q" for quit: p
+Generated random number: 6 pushed onto the stack.
+Now the stack is:
+1 4 1 6 
+Push or Pop? press "p or P" for push, press "o or O" for pop, press "q or Q" for quit: p
+Generated random number: 8 pushed onto the stack.
+Now the stack is:
+1 4 1 6 8 
+Push or Pop? press "p or P" for push, press "o or O" for pop, press "q or Q" for quit: p
+Generated random number: 4 pushed onto the stack.
+Now the stack is:
+1 4 1 6 8 4 
+Push or Pop? press "p or P" for push, press "o or O" for pop, press "q or Q" for quit: p
+Generated random number: 0 pushed onto the stack.
+Now the stack is:
+1 4 1 6 8 4 0 
+Push or Pop? press "p or P" for push, press "o or O" for pop, press "q or Q" for quit: p
+Generated random number: 4 pushed onto the stack.
+Now the stack is:
+1 4 1 6 8 4 0 4 
+Push or Pop? press "p or P" for push, press "o or O" for pop, press "q or Q" for quit: o
+Number: 4 is popped.
+Now the stack is:
+1 4 1 6 8 4 0 
+Push or Pop? press "p or P" for push, press "o or O" for pop, press "q or Q" for quit: o
+Number: 0 is popped.
+Now the stack is:
+1 4 1 6 8 4 
+Push or Pop? press "p or P" for push, press "o or O" for pop, press "q or Q" for quit: o
+Number: 4 is popped.
+Now the stack is:
+1 4 1 6 8 
+Push or Pop? press "p or P" for push, press "o or O" for pop, press "q or Q" for quit: p
+Generated random number: 0 pushed onto the stack.
+Now the stack is:
+1 4 1 6 8 0 
+Push or Pop? press "p or P" for push, press "o or O" for pop, press "q or Q" for quit: o
+Number: 0 is popped.
+Now the stack is:
+1 4 1 6 8 
+Push or Pop? press "p or P" for push, press "o or O" for pop, press "q or Q" for quit: p
+Generated random number: 0 pushed onto the stack.
+Now the stack is:
+1 4 1 6 8 0 
+Push or Pop? press "p or P" for push, press "o or O" for pop, press "q or Q" for quit: o
+Number: 0 is popped.
+Now the stack is:
+1 4 1 6 8 
+Push or Pop? press "p or P" for push, press "o or O" for pop, press "q or Q" for quit: o
+Number: 8 is popped.
+Now the stack is:
+1 4 1 6 
+Push or Pop? press "p or P" for push, press "o or O" for pop, press "q or Q" for quit: o
+Number: 6 is popped.
+Now the stack is:
+1 4 1 
+Push or Pop? press "p or P" for push, press "o or O" for pop, press "q or Q" for quit: p
+Generated random number: 6 pushed onto the stack.
+Now the stack is:
+1 4 1 6 
+Push or Pop? press "p or P" for push, press "o or O" for pop, press "q or Q" for quit: p
+Generated random number: 8 pushed onto the stack.
+Now the stack is:
+1 4 1 6 8 
+Push or Pop? press "p or P" for push, press "o or O" for pop, press "q or Q" for quit: p
+Generated random number: 4 pushed onto the stack.
+Now the stack is:
+1 4 1 6 8 4 
+Push or Pop? press "p or P" for push, press "o or O" for pop, press "q or Q" for quit: p
+Generated random number: 5 pushed onto the stack.
+Now the stack is:
+1 4 1 6 8 4 5 
+Push or Pop? press "p or P" for push, press "o or O" for pop, press "q or Q" for quit: o
+Number: 5 is popped.
+Now the stack is:
+1 4 1 6 8 4 
+Push or Pop? press "p or P" for push, press "o or O" for pop, press "q or Q" for quit: p
+Generated random number: 6 pushed onto the stack.
+Now the stack is:
+1 4 1 6 8 4 6 
+Push or Pop? press "p or P" for push, press "o or O" for pop, press "q or Q" for quit: o
+Number: 6 is popped.
+Now the stack is:
+1 4 1 6 8 4 
+Push or Pop? press "p or P" for push, press "o or O" for pop, press "q or Q" for quit: o
+Number: 4 is popped.
+Now the stack is:
+1 4 1 6 8 
+Push or Pop? press "p or P" for push, press "o or O" for pop, press "q or Q" for quit: p
+Generated random number: 6 pushed onto the stack.
+Now the stack is:
+1 4 1 6 8 6 
+Push or Pop? press "p or P" for push, press "o or O" for pop, press "q or Q" for quit: p
+Generated random number: 0 pushed onto the stack.
+Now the stack is:
+1 4 1 6 8 6 0 
+Push or Pop? press "p or P" for push, press "o or O" for pop, press "q or Q" for quit: p
+Generated random number: 2 pushed onto the stack.
+Now the stack is:
+1 4 1 6 8 6 0 2 
+Push or Pop? press "p or P" for push, press "o or O" for pop, press "q or Q" for quit: p
+Generated random number: 6 pushed onto the stack.
+Now the stack is:
+1 4 1 6 8 6 0 2 6 
+Push or Pop? press "p or P" for push, press "o or O" for pop, press "q or Q" for quit: o
+Number: 6 is popped.
+Now the stack is:
+1 4 1 6 8 6 0 2 
+Push or Pop? press "p or P" for push, press "o or O" for pop, press "q or Q" for quit: o
+Number: 2 is popped.
+Now the stack is:
+1 4 1 6 8 6 0 
+Push or Pop? press "p or P" for push, press "o or O" for pop, press "q or Q" for quit: p
+Generated random number: 3 pushed onto the stack.
+Now the stack is:
+1 4 1 6 8 6 0 3 
+Push or Pop? press "p or P" for push, press "o or O" for pop, press "q or Q" for quit: q
+Now testing the copy assignement and assignment operator!
+The copy constructor assigned s2 from s, the s2 is:
+1 4 1 6 8 6 0 3 
+The assignment operator: s3=s2. the s3 is:
+1 4 1 6 8 6 0 3 
+Now testing Stack push and pop function:
+Push or Pop? press "p or P" for push, press "o or O" for pop, press "q or Q" for quit: p
+Generated random number: 1.18384 pushed onto the stack.
+Now the stack is:
+1.18384 
+Push or Pop? press "p or P" for push, press "o or O" for pop, press "q or Q" for quit: p
+Generated random number: 4.12785 pushed onto the stack.
+Now the stack is:
+1.18384 4.12785 
+Push or Pop? press "p or P" for push, press "o or O" for pop, press "q or Q" for quit: p
+Generated random number: 1.97063 pushed onto the stack.
+Now the stack is:
+1.18384 4.12785 1.97063 
+Push or Pop? press "p or P" for push, press "o or O" for pop, press "q or Q" for quit: p
+Generated random number: 6.10978 pushed onto the stack.
+Now the stack is:
+1.18384 4.12785 1.97063 6.10978 
+Push or Pop? press "p or P" for push, press "o or O" for pop, press "q or Q" for quit: p
+Generated random number: 8.41224 pushed onto the stack.
+Now the stack is:
+1.18384 4.12785 1.97063 6.10978 8.41224 
+Push or Pop? press "p or P" for push, press "o or O" for pop, press "q or Q" for quit: p
+Generated random number: 4.67475 pushed onto the stack.
+Now the stack is:
+1.18384 4.12785 1.97063 6.10978 8.41224 4.67475 
+Push or Pop? press "p or P" for push, press "o or O" for pop, press "q or Q" for quit: p
+Generated random number: 0.311149 pushed onto the stack.
+Now the stack is:
+1.18384 4.12785 1.97063 6.10978 8.41224 4.67475 0.311149 
+Push or Pop? press "p or P" for push, press "o or O" for pop, press "q or Q" for quit: p
+Generated random number: 4.7673 pushed onto the stack.
+Now the stack is:
+1.18384 4.12785 1.97063 6.10978 8.41224 4.67475 0.311149 4.7673 
+Push or Pop? press "p or P" for push, press "o or O" for pop, press "q or Q" for quit: o
+Number: 4.7673 is popped.
+Now the stack is:
+1.18384 4.12785 1.97063 6.10978 8.41224 4.67475 0.311149 
+Push or Pop? press "p or P" for push, press "o or O" for pop, press "q or Q" for quit: p
+Generated random number: 0.0692837 pushed onto the stack.
+Now the stack is:
+1.18384 4.12785 1.97063 6.10978 8.41224 4.67475 0.311149 0.0692837 
+Push or Pop? press "p or P" for push, press "o or O" for pop, press "q or Q" for quit: p
+Generated random number: 0.60158 pushed onto the stack.
+Now the stack is:
+1.18384 4.12785 1.97063 6.10978 8.41224 4.67475 0.311149 0.0692837 0.60158 
+Push or Pop? press "p or P" for push, press "o or O" for pop, press "q or Q" for quit: o
+Number: 0.60158 is popped.
+Now the stack is:
+1.18384 4.12785 1.97063 6.10978 8.41224 4.67475 0.311149 0.0692837 
+Push or Pop? press "p or P" for push, press "o or O" for pop, press "q or Q" for quit: o
+Number: 0.0692837 is popped.
+Now the stack is:
+1.18384 4.12785 1.97063 6.10978 8.41224 4.67475 0.311149 
+Push or Pop? press "p or P" for push, press "o or O" for pop, press "q or Q" for quit: o
+Number: 0.311149 is popped.
+Now the stack is:
+1.18384 4.12785 1.97063 6.10978 8.41224 4.67475 
+Push or Pop? press "p or P" for push, press "o or O" for pop, press "q or Q" for quit: p
+Generated random number: 6.18095 pushed onto the stack.
+Now the stack is:
+1.18384 4.12785 1.97063 6.10978 8.41224 4.67475 6.18095 
+Push or Pop? press "p or P" for push, press "o or O" for pop, press "q or Q" for quit: p 
+Generated random number: 8.37393 pushed onto the stack.
+Now the stack is:
+1.18384 4.12785 1.97063 6.10978 8.41224 4.67475 6.18095 8.37393 
+Push or Pop? press "p or P" for push, press "o or O" for pop, press "q or Q" for quit: o
+Number: 8.37393 is popped.
+Now the stack is:
+1.18384 4.12785 1.97063 6.10978 8.41224 4.67475 6.18095 
+Push or Pop? press "p or P" for push, press "o or O" for pop, press "q or Q" for quit: o
+Number: 6.18095 is popped.
+Now the stack is:
+1.18384 4.12785 1.97063 6.10978 8.41224 4.67475 
+Push or Pop? press "p or P" for push, press "o or O" for pop, press "q or Q" for quit: o
+Number: 4.67475 is popped.
+Now the stack is:
+1.18384 4.12785 1.97063 6.10978 8.41224 
+Push or Pop? press "p or P" for push, press "o or O" for pop, press "q or Q" for quit: o
+Number: 8.41224 is popped.
+Now the stack is:
+1.18384 4.12785 1.97063 6.10978 
+Push or Pop? press "p or P" for push, press "o or O" for pop, press "q or Q" for quit: p
+Generated random number: 4.74236 pushed onto the stack.
+Now the stack is:
+1.18384 4.12785 1.97063 6.10978 4.74236 
+Push or Pop? press "p or P" for push, press "o or O" for pop, press "q or Q" for quit: p
+Generated random number: 5.88527 pushed onto the stack.
+Now the stack is:
+1.18384 4.12785 1.97063 6.10978 4.74236 5.88527 
+Push or Pop? press "p or P" for push, press "o or O" for pop, press "q or Q" for quit: o
+Number: 5.88527 is popped.
+Now the stack is:
+1.18384 4.12785 1.97063 6.10978 4.74236 
+Push or Pop? press "p or P" for push, press "o or O" for pop, press "q or Q" for quit: o
+Number: 4.74236 is popped.
+Now the stack is:
+1.18384 4.12785 1.97063 6.10978 
+Push or Pop? press "p or P" for push, press "o or O" for pop, press "q or Q" for quit: o
+Number: 6.10978 is popped.
+Now the stack is:
+1.18384 4.12785 1.97063 
+Push or Pop? press "p or P" for push, press "o or O" for pop, press "q or Q" for quit: o
+Number: 1.97063 is popped.
+Now the stack is:
+1.18384 4.12785 
+Push or Pop? press "p or P" for push, press "o or O" for pop, press "q or Q" for quit: p
+Generated random number: 6.31072 pushed onto the stack.
+Now the stack is:
+1.18384 4.12785 6.31072 
+Push or Pop? press "p or P" for push, press "o or O" for pop, press "q or Q" for quit: p
+Generated random number: 6.85978 pushed onto the stack.
+Now the stack is:
+1.18384 4.12785 6.31072 6.85978 
+Push or Pop? press "p or P" for push, press "o or O" for pop, press "q or Q" for quit: q
+Now testing the copy assignement and assignment operator!
+The copy constructor assigned s2 from s, the s2 is:
+1.18384 4.12785 6.31072 6.85978 
+The assignment operator: s3=s2. the s3 is:
+1.18384 4.12785 6.31072 6.85978 
+
